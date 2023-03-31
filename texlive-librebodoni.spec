@@ -1,6 +1,6 @@
 Name:		texlive-librebodoni
 Version:	64431
-Release:	1
+Release:	2
 Summary:	Libre Bodoni fonts with LaTeX support
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/librebodoni
